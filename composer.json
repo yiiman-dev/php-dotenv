@@ -1,5 +1,5 @@
 {
-    "name": "yiman/dotenv",
+    "name": "yiiman/dotenv",
     "description": "Parses .env files",
     "type": "library",
     "license": "MIT",
