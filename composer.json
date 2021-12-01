@@ -1,5 +1,5 @@
 {
-    "name": "devcoder-xyz/php-dotenv",
+    "name": "yiman/dotenv",
     "description": "Parses .env files",
     "type": "library",
     "license": "MIT",
